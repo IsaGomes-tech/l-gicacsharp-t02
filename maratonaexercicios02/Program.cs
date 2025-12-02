@@ -133,16 +133,16 @@ Crie um programa que receba 10 números inteiros e calcule a média desses
 números. Utilize o laço for para ler os números e calcular a média.
 Exercícios com while:
 */
-double[] numeros = { 2.5, 3.0, 4.0, 5.0, 6.8, 7.0, 8.8, 2.5, 4.8, 4.5 };
-double soma = 0;
-foreach (double n in numeros)
+int soma = 0;
+int numeros;
+for (int i = 1; i <=10; i++)
 {
-    soma += n;
+    Console.WriteLine($"Digite o {i}º número: ");
+    numeros = int.Parse( Console.ReadLine() );
+    soma += numeros;
 }
-double media = soma / numeros.Length;
-
-Console.WriteLine($"A média é: {media:F2}");
-
+double media = soma / 10.0;
+Console.WriteLine($"A média de números é: {media}");
 /*
 1.Faça um programa contador de visitantes
 Desenvolva um código que simula a entrada X visitantes aleatoriamente no 
