@@ -1,0 +1,15 @@
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\bin\Debug\net8.0\classecomheranca.exe
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\bin\Debug\net8.0\classecomheranca.deps.json
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\bin\Debug\net8.0\classecomheranca.runtimeconfig.json
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\bin\Debug\net8.0\classecomheranca.dll
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\bin\Debug\net8.0\classecomheranca.pdb
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\obj\Debug\net8.0\classecomheranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\obj\Debug\net8.0\classecomheranca.AssemblyInfoInputs.cache
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\obj\Debug\net8.0\classecomheranca.AssemblyInfo.cs
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\obj\Debug\net8.0\classecomheranca.csproj.CoreCompileInputs.cache
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\obj\Debug\net8.0\classecomheranca.sourcelink.json
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\obj\Debug\net8.0\classecomheranca.dll
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\obj\Debug\net8.0\refint\classecomheranca.dll
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\obj\Debug\net8.0\classecomheranca.pdb
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\obj\Debug\net8.0\classecomheranca.genruntimeconfig.cache
+C:\Users\isabela.gnascimento4\source\repos\classecomheranca\obj\Debug\net8.0\ref\classecomheranca.dll

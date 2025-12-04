@@ -1,0 +1,15 @@
+C:\Users\isabela.gnascimento4\source\repos\listas\bin\Debug\net8.0\listas.exe
+C:\Users\isabela.gnascimento4\source\repos\listas\bin\Debug\net8.0\listas.deps.json
+C:\Users\isabela.gnascimento4\source\repos\listas\bin\Debug\net8.0\listas.runtimeconfig.json
+C:\Users\isabela.gnascimento4\source\repos\listas\bin\Debug\net8.0\listas.dll
+C:\Users\isabela.gnascimento4\source\repos\listas\bin\Debug\net8.0\listas.pdb
+C:\Users\isabela.gnascimento4\source\repos\listas\obj\Debug\net8.0\listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabela.gnascimento4\source\repos\listas\obj\Debug\net8.0\listas.AssemblyInfoInputs.cache
+C:\Users\isabela.gnascimento4\source\repos\listas\obj\Debug\net8.0\listas.AssemblyInfo.cs
+C:\Users\isabela.gnascimento4\source\repos\listas\obj\Debug\net8.0\listas.csproj.CoreCompileInputs.cache
+C:\Users\isabela.gnascimento4\source\repos\listas\obj\Debug\net8.0\listas.sourcelink.json
+C:\Users\isabela.gnascimento4\source\repos\listas\obj\Debug\net8.0\listas.dll
+C:\Users\isabela.gnascimento4\source\repos\listas\obj\Debug\net8.0\refint\listas.dll
+C:\Users\isabela.gnascimento4\source\repos\listas\obj\Debug\net8.0\listas.pdb
+C:\Users\isabela.gnascimento4\source\repos\listas\obj\Debug\net8.0\listas.genruntimeconfig.cache
+C:\Users\isabela.gnascimento4\source\repos\listas\obj\Debug\net8.0\ref\listas.dll

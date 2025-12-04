@@ -3,3 +3,13 @@ C:\Users\isabela.gnascimento4\source\repos\classes\obj\Debug\net8.0\classes.Asse
 C:\Users\isabela.gnascimento4\source\repos\classes\obj\Debug\net8.0\classes.AssemblyInfo.cs
 C:\Users\isabela.gnascimento4\source\repos\classes\obj\Debug\net8.0\classes.csproj.CoreCompileInputs.cache
 C:\Users\isabela.gnascimento4\source\repos\classes\obj\Debug\net8.0\classes.sourcelink.json
+C:\Users\isabela.gnascimento4\source\repos\classes\bin\Debug\net8.0\classes.exe
+C:\Users\isabela.gnascimento4\source\repos\classes\bin\Debug\net8.0\classes.deps.json
+C:\Users\isabela.gnascimento4\source\repos\classes\bin\Debug\net8.0\classes.runtimeconfig.json
+C:\Users\isabela.gnascimento4\source\repos\classes\bin\Debug\net8.0\classes.dll
+C:\Users\isabela.gnascimento4\source\repos\classes\bin\Debug\net8.0\classes.pdb
+C:\Users\isabela.gnascimento4\source\repos\classes\obj\Debug\net8.0\classes.dll
+C:\Users\isabela.gnascimento4\source\repos\classes\obj\Debug\net8.0\refint\classes.dll
+C:\Users\isabela.gnascimento4\source\repos\classes\obj\Debug\net8.0\classes.pdb
+C:\Users\isabela.gnascimento4\source\repos\classes\obj\Debug\net8.0\classes.genruntimeconfig.cache
+C:\Users\isabela.gnascimento4\source\repos\classes\obj\Debug\net8.0\ref\classes.dll
